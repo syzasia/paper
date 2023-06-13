@@ -23,3 +23,11 @@ away from the source region.
 # Methodology
 We compared our measurements of particle aging with a model simulation.
 The model is detailed in Smith et al 2002.
+
+# Results
+The simulations indicate that coagulation is the dominant growth
+mechanism for these particles.
+
+# Conclusions
+We have made fantastic insight into the BBOA aging process. 
+Nonetheless, questions remain unanswered, so we should get some more funding.
