@@ -31,3 +31,6 @@ mechanism for these particles.
 # Conclusions
 We have made fantastic insight into the BBOA aging process. 
 Nonetheless, questions remain unanswered, so we should get some more funding.
+
+#Figures
+Figures go in their own section in a draft paper.
